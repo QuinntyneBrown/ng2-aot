@@ -1,2 +1,2 @@
-# ng2-aot
-Angular 2 Ahead of Time Compilation Experiment
+# ng2-lazy-loading
+Angular 2 App Lazy Loading Experimentation 
